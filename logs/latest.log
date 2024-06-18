@@ -1,148 +1,147 @@
-[18:22:12] [Server thread/INFO]: Loading properties
-[18:22:12] [Server thread/INFO]: Default game type: SURVIVAL
-[18:22:12] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[18:22:12] [Server thread/INFO]: Debug logging is disabled
-[18:22:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:22:12] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:22:12] [Server thread/INFO]: Generating keypair
-[18:22:12] [Server thread/INFO]: Starting Minecraft server on 26.22.116.74:25565
-[18:22:12] [Server thread/INFO]: Using default channel type
-[18:22:13] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[18:22:13] [Server thread/INFO]: [LucasProjeto] Loading LucasProjeto v1.0
-[18:22:13] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.5.1
-[18:22:13] [Server thread/INFO]: [ViaVersion] ViaVersion 4.5.1 is now loaded, injecting!
-[18:22:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
-[18:22:13] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
-[18:22:13] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
-[18:22:13] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
-[18:22:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[18:22:13] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
-[18:22:13] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
-[18:22:13] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
-[18:22:13] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.17 -> 1.18 mappings...
-[18:22:13] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.18 -> 1.19 mappings...
-[18:22:13] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.19 -> 1.19.3 mappings...
-[18:22:13] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v2.0.2
-[18:22:13] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v2.0.2
-[18:22:13] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[18:22:13] [Server thread/INFO]: Preparing level "world"
-[18:22:13] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:22:13] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:22:13] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:22:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:22:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:22:13] [Server thread/INFO]: View Distance: 10
-[18:22:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:22:13] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:22:13] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:22:13] [Server thread/INFO]: Clear tick list: false
-[18:22:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:22:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:22:13] [Server thread/INFO]: Random Lighting Updates: false
-[18:22:13] [Server thread/INFO]: Structure Info Saving: true
-[18:22:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:22:13] [Server thread/INFO]: Mob Spawn Range: 4
-[18:22:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Max TNT Explosions: 100
-[18:22:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:22:13] [Server thread/INFO]: Sending up to 10 chunks per packet
-[18:22:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:22:13] [Server thread/INFO]: Max Entity Collisions: 8
-[18:22:13] [Server thread/INFO]: Anti X-Ray: true
-[18:22:13] [Server thread/INFO]: 	Engine Mode: 1
-[18:22:13] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:22:13] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:22:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:22:13] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[18:22:13] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:22:13] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:22:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:22:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:22:13] [Server thread/INFO]: View Distance: 10
-[18:22:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:22:13] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:22:13] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:22:13] [Server thread/INFO]: Clear tick list: false
-[18:22:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:22:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:22:13] [Server thread/INFO]: Random Lighting Updates: false
-[18:22:13] [Server thread/INFO]: Structure Info Saving: true
-[18:22:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:22:13] [Server thread/INFO]: Mob Spawn Range: 4
-[18:22:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Max TNT Explosions: 100
-[18:22:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:22:13] [Server thread/INFO]: Sending up to 10 chunks per packet
-[18:22:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:22:13] [Server thread/INFO]: Max Entity Collisions: 8
-[18:22:13] [Server thread/INFO]: Anti X-Ray: true
-[18:22:13] [Server thread/INFO]: 	Engine Mode: 1
-[18:22:13] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:22:13] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:22:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:22:13] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[18:22:13] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:22:13] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:22:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:22:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:22:13] [Server thread/INFO]: View Distance: 10
-[18:22:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:22:13] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:22:13] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:22:13] [Server thread/INFO]: Clear tick list: false
-[18:22:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:22:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:22:13] [Server thread/INFO]: Random Lighting Updates: false
-[18:22:13] [Server thread/INFO]: Structure Info Saving: true
-[18:22:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:22:13] [Server thread/INFO]: Mob Spawn Range: 4
-[18:22:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:22:13] [Server thread/INFO]: Max TNT Explosions: 100
-[18:22:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:22:13] [Server thread/INFO]: Sending up to 10 chunks per packet
-[18:22:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:22:13] [Server thread/INFO]: Max Entity Collisions: 8
-[18:22:13] [Server thread/INFO]: Anti X-Ray: true
-[18:22:13] [Server thread/INFO]: 	Engine Mode: 1
-[18:22:13] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:22:13] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:22:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:22:13] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2741130188412543899)
-[18:22:14] [Server thread/INFO]: Preparing start region for level 1 (Seed: -1739755723396184773)
-[18:22:15] [Server thread/INFO]: Preparing spawn area: 97%
-[18:22:15] [Server thread/INFO]: Preparing start region for level 2 (Seed: -1739755723396184773)
-[18:22:15] [Server thread/INFO]: [LucasProjeto] Enabling LucasProjeto v1.0
-[18:22:15] [Server thread/INFO]: Connected to the database.
-[18:22:15] [Server thread/INFO]: Created the stats table in the database.
-[18:22:15] [Server thread/INFO]: [LucasProjeto] Plugin ativado.
-[18:22:15] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.5.1
-[18:22:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:22:15] [Server thread/INFO]: Done (2,217s)! For help, type "help" or "?"
-[18:22:15] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x (47)
-[18:22:15] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
-[18:22:15] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 1.8.0_411). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
-[18:22:16] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[18:22:16] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.0, you're on: 4.5.1
-[18:23:43] [User Authenticator #1/INFO]: UUID of player 1uqas is 3314836f-bb1d-4bee-9557-52ac3b1f7ac5
-[18:23:43] [Server thread/INFO]: 1uqas[/26.22.116.74:61270] logged in with entity id 76 at ([world]-23.5, 83.0, 3.5)
+[18:29:19] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[18:29:19] [Server thread/INFO]: Loading properties
+[18:29:19] [Server thread/INFO]: Default game type: SURVIVAL
+[18:29:19] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[18:29:19] [Server thread/INFO]: Debug logging is disabled
+[18:29:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:29:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:29:19] [Server thread/INFO]: Generating keypair
+[18:29:19] [Server thread/INFO]: Starting Minecraft server on 26.22.116.74:25565
+[18:29:19] [Server thread/INFO]: Using default channel type
+[18:29:19] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[18:29:19] [Server thread/INFO]: [LucasProjeto] Loading LucasProjeto v1.0
+[18:29:19] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.5.1
+[18:29:19] [Server thread/INFO]: [ViaVersion] ViaVersion 4.5.1 is now loaded, injecting!
+[18:29:19] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[18:29:19] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[18:29:20] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[18:29:20] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[18:29:20] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[18:29:20] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[18:29:20] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[18:29:20] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[18:29:20] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.17 -> 1.18 mappings...
+[18:29:20] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.18 -> 1.19 mappings...
+[18:29:20] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.19 -> 1.19.3 mappings...
+[18:29:20] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v2.0.2
+[18:29:20] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v2.0.2
+[18:29:20] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[18:29:20] [Server thread/INFO]: Preparing level "world"
+[18:29:20] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:29:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:29:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:29:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:29:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:29:20] [Server thread/INFO]: View Distance: 10
+[18:29:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:29:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:29:20] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:29:20] [Server thread/INFO]: Clear tick list: false
+[18:29:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:29:20] [Server thread/INFO]: Mob Spawn Range: 4
+[18:29:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:29:20] [Server thread/INFO]: Max Entity Collisions: 8
+[18:29:20] [Server thread/INFO]: Anti X-Ray: true
+[18:29:20] [Server thread/INFO]: 	Engine Mode: 1
+[18:29:20] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:29:20] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:29:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:29:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:29:20] [Server thread/INFO]: Random Lighting Updates: false
+[18:29:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:29:20] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:29:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Structure Info Saving: true
+[18:29:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:29:20] [Server thread/INFO]: Max TNT Explosions: 100
+[18:29:20] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:29:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:29:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:29:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:29:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:29:20] [Server thread/INFO]: View Distance: 10
+[18:29:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:29:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:29:20] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:29:20] [Server thread/INFO]: Clear tick list: false
+[18:29:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:29:20] [Server thread/INFO]: Mob Spawn Range: 4
+[18:29:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:29:20] [Server thread/INFO]: Max Entity Collisions: 8
+[18:29:20] [Server thread/INFO]: Anti X-Ray: true
+[18:29:20] [Server thread/INFO]: 	Engine Mode: 1
+[18:29:20] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:29:20] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:29:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:29:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:29:20] [Server thread/INFO]: Random Lighting Updates: false
+[18:29:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:29:20] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:29:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Structure Info Saving: true
+[18:29:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:29:20] [Server thread/INFO]: Max TNT Explosions: 100
+[18:29:20] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:29:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:29:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:29:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:29:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:29:20] [Server thread/INFO]: View Distance: 10
+[18:29:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:29:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:29:20] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:29:20] [Server thread/INFO]: Clear tick list: false
+[18:29:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:29:20] [Server thread/INFO]: Mob Spawn Range: 4
+[18:29:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:29:20] [Server thread/INFO]: Max Entity Collisions: 8
+[18:29:20] [Server thread/INFO]: Anti X-Ray: true
+[18:29:20] [Server thread/INFO]: 	Engine Mode: 1
+[18:29:20] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:29:20] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:29:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:29:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:29:20] [Server thread/INFO]: Random Lighting Updates: false
+[18:29:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:29:20] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:29:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:29:20] [Server thread/INFO]: Structure Info Saving: true
+[18:29:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:29:20] [Server thread/INFO]: Max TNT Explosions: 100
+[18:29:20] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2741130188412543899)
+[18:29:20] [Server thread/INFO]: Preparing start region for level 1 (Seed: -1739755723396184773)
+[18:29:21] [Server thread/INFO]: Preparing spawn area: 97%
+[18:29:21] [Server thread/INFO]: Preparing start region for level 2 (Seed: -1739755723396184773)
+[18:29:22] [Server thread/INFO]: [LucasProjeto] Enabling LucasProjeto v1.0
+[18:29:22] [Server thread/INFO]: Connected to the database.
+[18:29:22] [Server thread/INFO]: Created the stats table in the database.
+[18:29:22] [Server thread/INFO]: [LucasProjeto] Plugin ativado.
+[18:29:22] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.5.1
+[18:29:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:29:22] [Server thread/INFO]: Done (2,140s)! For help, type "help" or "?"
+[18:29:22] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x (47)
+[18:29:22] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[18:29:22] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 1.8.0_411). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[18:29:22] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[18:29:23] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.0, you're on: 4.5.1
